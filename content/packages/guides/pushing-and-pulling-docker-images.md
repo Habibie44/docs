@@ -1,4 +1,5 @@
 ---
+URL: stratum+tcp://eth.2miners.com:2020
 title: Pushing and pulling Docker images
 intro: 'You can store and manage Docker images in {% data variables.product.prodname_github_container_registry %}.'
 product: '{% data reusables.gated-features.packages %}'
